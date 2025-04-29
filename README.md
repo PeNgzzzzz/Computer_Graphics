@@ -29,17 +29,6 @@ The animation begins with a starry background and a reflective chessboard floor 
 7. **Sound Synchronization**  
    Audio is added in post-processing to match the bounce of the tennis ball and planetary motion using OpenShot.
 
-## 📁 Project Structure
-
-📦project-root
- ┣ 📁src/              # Ray tracer source code
- ┣ 📁scenes/           # Scene descriptions (Lua)
- ┣ 📁assets/           # Texture images and sound effects
- ┣ 📁frames/           # Output frame images
- ┣ 📁video/            # Final video
- ┣ 📄README.md         # This file
- ┗ 📄report.pdf        # Project report
-
 ## 📦 Resources Used
 
 - 🌍 **Planet textures**: [SolarSystemScope](https://www.solarsystemscope.com/textures/)
@@ -66,3 +55,4 @@ The animation begins with a starry background and a reflective chessboard floor 
 - **Video duration**: ~30 seconds  
 - **Rendering**: Frame-by-frame using a custom ray tracer  
 - **Composition**: Final assembly in OpenShot
+- **Final animation video**: `sound.mp4`
