@@ -31,7 +31,6 @@ The animation begins with a starry background and a reflective chessboard floor 
 
 ## 📁 Project Structure
 
-```plaintext
 📦project-root
  ┣ 📁src/              # Ray tracer source code
  ┣ 📁scenes/           # Scene descriptions (Lua)
@@ -67,7 +66,3 @@ The animation begins with a starry background and a reflective chessboard floor 
 - **Video duration**: ~30 seconds  
 - **Rendering**: Frame-by-frame using a custom ray tracer  
 - **Composition**: Final assembly in OpenShot
-
----
-
-> All third-party resources are credited above. This project was developed as a technical demonstration of animation via ray tracing.
